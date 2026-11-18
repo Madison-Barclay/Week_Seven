@@ -9,4 +9,6 @@ To fix the error, you just need to change networkx.degree(G) to nx.degree(G). I 
    Centrality: measures the importance of a node within the network where importance is conceptualized in different ways 
   Degree centrality: based on the number of connections 
   Betweenness centrality: based on the number of shortest paths passing through a node 
-  Closeness centrality: inverse of a sum of distances to all other nodes 
+  Closeness centrality: inverse of a sum of distances to all other nodes
+
+  My observations for the Roman society exercise are embedded in the notebook. I had difficulty with this activity because I am still not at ease with reading the graphs and fully understanding what I am looking at.  I don't feel comfortable making statistical observations 
